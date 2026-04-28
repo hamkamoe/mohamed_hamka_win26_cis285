@@ -1,0 +1,24 @@
+{
+  "name": "mohamed_hamka_win26_cis285",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamkamoe/mohamed_hamka_win26_cis285.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hamkamoe/mohamed_hamka_win26_cis285/issues"
+  },
+  "homepage": "https://github.com/hamkamoe/mohamed_hamka_win26_cis285#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
